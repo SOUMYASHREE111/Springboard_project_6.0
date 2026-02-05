@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+langchain
+openai
+python-dotenv
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
